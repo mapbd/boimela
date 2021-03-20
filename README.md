@@ -10,6 +10,7 @@ Location: [Suhrawardy Udyan](https://www.google.com/maps/@23.7327758,90.3986792,
 ## Image compare
 
 ![compare](https://raw.githubusercontent.com/mapbd/boimela/main/img/comp.jpg)
+
 The left one is taken by airbus and the right one is by drone.
 
 ### Imagery Link for Tile Map Service or TMS
