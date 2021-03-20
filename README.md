@@ -1,4 +1,4 @@
-# Boimela Imagery 2021
+# Omor Ekushey Boi Mela 2021
 
 
 Location: [Suhrawardy Udyan](https://www.google.com/maps/@23.7327758,90.3986792,656m/data=!3m1!1e3)
@@ -10,9 +10,11 @@ Location: [Suhrawardy Udyan](https://www.google.com/maps/@23.7327758,90.3986792,
 ## Image compare
 
 ![compare](https://raw.githubusercontent.com/mapbd/boimela/main/img/comp.jpg)
+The left one is taken by airbus and the right one is by drone.
 
 ### Imagery Link for Tile Map Service or TMS
 
-[http://boimela.mapbd.xyz/image/{z}/{x}/{y}.png](http://boimela.mapbd.xyz/image/{z}/{x}/{y}.png) or 
+[http://boimela.mapbd.xyz/image/{z}/{x}/{y}.png](http://boimela.mapbd.xyz/image/{z}/{x}/{y}.png) or
+
 [https://mapbd.github.io/boimela/image/{z}/{x}/{y}.png](https://mapbd.github.io/boimela/image/{z}/{x}/{y}.png)
 
